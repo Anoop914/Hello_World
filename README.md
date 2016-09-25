@@ -1,2 +1,3 @@
 # Hello_World
-First Repository
+Hi friends ,
+     I am new here.So I need your help...
